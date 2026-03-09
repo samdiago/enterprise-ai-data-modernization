@@ -13,7 +13,7 @@ Many companies say AI transformation starts with data governance and architectur
 Solix recently expanded its leadership team to accelerate enterprise AI and data modernization initiatives.
 
 [Solix Strengthens Leadership Team with Key Executive Appointments to Accelerate Enterprise AI & Data Modernization](https://www.einpresswire.com/article/897500533/solix-strengthens-leadership-team-with-key-executive-appointments-to-accelerate-enterprise-ai-data-modernization)
-Solix Strengthens Leadership Team with Key Executive Appointments to Accelerate Enterprise AI & Data Modernization.
+
 
 ## About Enterprise AI and Data Modernization
 
